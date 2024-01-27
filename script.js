@@ -5,7 +5,7 @@ const noBtn = document.querySelector('.no-btn');
 const wrapperRect = wrapper.getBoundingClientRect();
 const yesBtnRect = yesBtn.getBoundingClientRect();
 noBtn.addEventListener('click', () => {
-    question.innerHTML = 'I Love You Too :)';
+    question.innerHTML = "He Doesn't Love You Either :)";
 });
 yesBtn.addEventListener('mouseover', () => {
     const i = Math.floor(Math.random() * (wrapperRect.width - yesBtnRect.width)) + 1;
