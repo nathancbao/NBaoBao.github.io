@@ -103,7 +103,7 @@ function contin() {
     }
 };
 function next() {
-    window.location.href = "index.html";
+    window.location.href = "second.html";
 };
 nBtn.addEventListener('click', () => {
     contin();
