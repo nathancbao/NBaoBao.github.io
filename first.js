@@ -28,7 +28,7 @@ function contin() {
                 break;
             case 2:
                 pageCount++;
-                image.src = "beddingTim.JPG";
+                image.src = "beddingTim.jpg";
                 sound = new Audio("timgoingcrazy.mp3");
                 break;
             case 3:
@@ -48,7 +48,7 @@ function contin() {
                 break;
             case 6:
                 pageCount++;
-                image.src = "kickmaster.PNG";
+                image.src = "kickmaster.png";
                 image.rad
                 sound = new Audio("hyah.mp3");
                 break;
@@ -73,7 +73,7 @@ function contin() {
                 break;
             case 9:
                 pageCount++;
-                image.src = "kbbq.JPG";
+                image.src = "kbbq.jpg";
                 sound = new Audio("sizzle.mp3");
                 break;
             case 10:
