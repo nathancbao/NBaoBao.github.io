@@ -97,7 +97,7 @@ function contin() {
                 sound.play();
                 image.src = "tae.jpg_large";
                 nBtnID.style.display = "none";
-                setTimeout("next()", 103000); //103000
+                setTimeout("next()", 10330); //103000
                 break;
         }
     }
