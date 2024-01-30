@@ -11,7 +11,7 @@ noBtn.addEventListener('click', () => {
     image.src = "critae.jpg";
     var sound = new Audio("heheheha.mp3");
     sound.play();
-    setTimeout("next()", 10330); //103000
+    setTimeout("next()", 1033000); //103000
 });
 yesBtn.addEventListener('mouseover', () => {
     const i = Math.floor(Math.random() * (wrapperRect.width - yesBtnRect.width)) + 1;
